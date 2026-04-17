@@ -1,7 +1,7 @@
 # Alter-Ego
 **Borrow a better brain.**
 
-[![Alter-Ego Council Demo](https://img.youtube.com/vi/VKSo1mT7G8w/hqdefault.jpg)](https://www.youtube.com/watch?v=VKSo1mT7G8w)
+Demo: [Alter-Ego Council Demo](https://www.youtube.com/watch?v=VKSo1mT7G8w)
 
 Alter-Ego is a highly stylized, decision-support web application that generates 5 diverse "cognitive lenses" (4 Domain Titans + 1 Chaotic Outlier) to analyze your specific situations. It leverages the new official `@google/genai` SDK and the `gemini-3-flash-preview` model for blazingly fast, token-optimized generations.
 
